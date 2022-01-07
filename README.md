@@ -25,4 +25,7 @@ The setup is fairly simple if you are familiar with creating virtual environment
 3. Assemble Door Defender according to the pin numbers shown in the code. This can then be placed anywhere you want.
 4. To get the local server running, createa virtual environment and install flask and pyautogui.
 
+This is the schematic:
+![Door Defender Schematic](https://raw.githubusercontent.com/VarunPatelius/Door-Defender/main/github/doorDefenderSchematic.png)
+
 PLEASE READ ALL THE COMMENTS FOR THE CODE BEFORE FLASHING OR RUNNING
